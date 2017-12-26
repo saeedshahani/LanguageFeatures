@@ -1,0 +1,11 @@
+C:\Users\saeed\OneDrive\Code\C#\LanguageFeatures\LanguageFeatures\bin\Debug\netcoreapp2.0\LanguageFeatures.deps.json
+C:\Users\saeed\OneDrive\Code\C#\LanguageFeatures\LanguageFeatures\bin\Debug\netcoreapp2.0\LanguageFeatures.runtimeconfig.json
+C:\Users\saeed\OneDrive\Code\C#\LanguageFeatures\LanguageFeatures\bin\Debug\netcoreapp2.0\LanguageFeatures.runtimeconfig.dev.json
+C:\Users\saeed\OneDrive\Code\C#\LanguageFeatures\LanguageFeatures\bin\Debug\netcoreapp2.0\LanguageFeatures.dll
+C:\Users\saeed\OneDrive\Code\C#\LanguageFeatures\LanguageFeatures\obj\Debug\netcoreapp2.0\LanguageFeatures.csprojResolveAssemblyReference.cache
+C:\Users\saeed\OneDrive\Code\C#\LanguageFeatures\LanguageFeatures\obj\Debug\netcoreapp2.0\LanguageFeatures.csproj.CoreCompileInputs.cache
+C:\Users\saeed\OneDrive\Code\C#\LanguageFeatures\LanguageFeatures\obj\Debug\netcoreapp2.0\LanguageFeatures.AssemblyInfoInputs.cache
+C:\Users\saeed\OneDrive\Code\C#\LanguageFeatures\LanguageFeatures\obj\Debug\netcoreapp2.0\LanguageFeatures.AssemblyInfo.cs
+C:\Users\saeed\OneDrive\Code\C#\LanguageFeatures\LanguageFeatures\bin\Debug\netcoreapp2.0\LanguageFeatures.pdb
+C:\Users\saeed\OneDrive\Code\C#\LanguageFeatures\LanguageFeatures\obj\Debug\netcoreapp2.0\LanguageFeatures.dll
+C:\Users\saeed\OneDrive\Code\C#\LanguageFeatures\LanguageFeatures\obj\Debug\netcoreapp2.0\LanguageFeatures.pdb
